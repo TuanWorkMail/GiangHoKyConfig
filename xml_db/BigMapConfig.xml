@@ -1,0 +1,1079 @@
+﻿[{
+"mapId":"101",
+"name":"Vô Lượng Sơn",
+"offsetX":"0",
+"offsetY":"140",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"102",
+"name":"Kinh Thành",
+"offsetX":"0",
+"offsetY":"180",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"103",
+"name":"Yến Tử Ổ",
+"offsetX":"0",
+"offsetY":"300",
+"limitPerson":"50",
+"branching":"true"
+},{
+"mapId":"104",
+"name":"Vạn Kiếp Cốc",
+"offsetX":"0",
+"offsetY":"144",
+"limitPerson":"50",
+"branching":"true"
+},{
+"mapId":"108",
+"name":"Đao Kiếm Cốc",
+"offsetX":"0",
+"offsetY":"200",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"113",
+"name":"Tụ Hiền Trang",
+"offsetX":"0",
+"offsetY":"64",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"115",
+"name":"Tử Cấm Chi Điên",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"10501",
+"name":"Nhạn Nam Nhai",
+"offsetX":"0",
+"offsetY":"180",
+"limitPerson":"50",
+"branching":"true"
+},{
+"mapId":"10502",
+"name":"Tiêu Diêu Phong",
+"offsetX":"0",
+"offsetY":"220",
+"limitPerson":"50",
+"branching":"true"
+},{
+"mapId":"10503",
+"name":"Thiên Sơn Tuyết Nguyên",
+"offsetX":"0",
+"offsetY":"160",
+"limitPerson":"50",
+"branching":"true"
+},{
+"mapId":"10504",
+"name":"Đại Tống Biên Cương",
+"offsetX":"0",
+"offsetY":"170",
+"limitPerson":"50",
+"branching":"true"
+},{
+"mapId":"10601",
+"name":"Tây Vực Bình Nguyên",
+"offsetX":"0",
+"offsetY":"130",
+"limitPerson":"50",
+"branching":"true"
+},{
+"mapId":"10602",
+"name":"Tây Vực Bí Cảnh",
+"offsetX":"0",
+"offsetY":"160",
+"limitPerson":"50",
+"branching":"true"
+},{
+"mapId":"10701",
+"name":"Độc Chướng Thâm Uyên",
+"offsetX":"0",
+"offsetY":"160",
+"limitPerson":"50",
+"branching":"true"
+},{
+"mapId":"10702",
+"name":"Dạ Xoa Hắc Nhai",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"10703",
+"name":"Nhạc Thần Tấu Minh Ổ",
+"offsetX":"0",
+"offsetY":"50",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"1001",
+"name":"Nam Man Lĩnh Vực",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"1002",
+"name":"Diêu Gia Trại",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"1003",
+"name":"Thanh Thành Phái",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"1004",
+"name":"Băng Cung",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"1005",
+"name":"Di Vong Thánh Cung",
+"offsetX":"0",
+"offsetY":"70",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"1006",
+"name":"Thư Viện",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"1007",
+"name":"Kim Điện",
+"offsetX":"0",
+"offsetY":"80",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"1008",
+"name":"Thâm Uyên Địa Động",
+"offsetX":"0",
+"offsetY":"80",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"1009",
+"name":"Bát Bộ Diệt Thần Ám Điên",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"1010",
+"name":"Bát Bộ Ca Thần Chi Cốc",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"8001",
+"name":"Vô Song Chiến Trường",
+"offsetX":"0",
+"offsetY":"430",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"8002",
+"name":"Loạn Võ Chiến Trường",
+"offsetX":"0",
+"offsetY":"300",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"8003",
+"name":"Tỉ Võ Đài",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"itemLimit":"1",
+"branching":"false"
+},{
+"mapId":"8004",
+"name":"Biên Cương",
+"offsetX":"0",
+"offsetY":"270",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"8007",
+"name":"Tụ Hiền Trang Nội Các",
+"offsetX":"0",
+"offsetY":"70",
+"limitPerson":"0",
+"itemLimit":"1",
+"branching":"false"
+},{
+"mapId":"8008",
+"name":"Long Thành",
+"offsetX":"0",
+"offsetY":"280",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9002",
+"name":"Tụ Hiền Trang",
+"offsetX":"0",
+"offsetY":"64",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9003",
+"name":"Ngự Kiếm Sơn Trang",
+"offsetX":"0",
+"offsetY":"50",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9004",
+"name":"Ngọa Hổ Tàng Long",
+"offsetX":"0",
+"offsetY":"50",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9008",
+"name":"Kim Tiễn Bang",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9023",
+"name":"Bàn Đào Hội",
+"offsetX":"0",
+"offsetY":"140",
+"limitPerson":"0",
+"branching":"true",
+"needGolden":"0"
+},{
+"mapId":"9024",
+"name":"Ngự Kiếm Sơn Trang",
+"offsetX":"0",
+"offsetY":"83",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9701",
+"name":"Hạ Lan Cổ Lâu Tầng 1",
+"offsetX":"0",
+"offsetY":"30",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9702",
+"name":"Hạ Lan Cổ Lâu Tầng 2",
+"offsetX":"0",
+"offsetY":"50",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9703",
+"name":"Hạ Lan Cổ Lâu Tầng 3",
+"offsetX":"0",
+"offsetY":"30",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9704",
+"name":"Hạ Lan Cổ Lâu Tầng 4",
+"offsetX":"0",
+"offsetY":"50",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9705",
+"name":"Hạ Lan Cổ Lâu Tầng 5",
+"offsetX":"0",
+"offsetY":"30",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9706",
+"name":"Hạ Lan Cổ Lâu Tầng 6",
+"offsetX":"0",
+"offsetY":"90",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9707",
+"name":"Hạ Lan Cổ Lâu Tầng 7",
+"offsetX":"0",
+"offsetY":"30",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9708",
+"name":"Hạ Lan Cổ Lâu Tầng 8",
+"offsetX":"0",
+"offsetY":"90",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9709",
+"name":"Hạ Lan Cổ Lâu Tầng 9",
+"offsetX":"0",
+"offsetY":"50",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9710",
+"name":"Hạ Lan Cổ Lâu Tầng 10",
+"offsetX":"0",
+"offsetY":"30",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9711",
+"name":"Hạ Lan Cổ Lâu Tầng 11",
+"offsetX":"0",
+"offsetY":"50",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9712",
+"name":"Hạ Lan Cổ Lâu Tầng 12",
+"offsetX":"0",
+"offsetY":"50",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9713",
+"name":"Hạ Lan Cổ Lâu Tầng 13",
+"offsetX":"0",
+"offsetY":"30",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9714",
+"name":"Hạ Lan Cổ Lâu Tầng 14",
+"offsetX":"0",
+"offsetY":"30",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9715",
+"name":"Hạ Lan Cổ Lâu Tầng 15",
+"offsetX":"0",
+"offsetY":"30",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9801",
+"name":"Mê Thất Bí Cung Tầng 1",
+"offsetX":"0",
+"offsetY":"30",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9802",
+"name":"Mê Thất Bí Cung Tầng 2",
+"offsetX":"0",
+"offsetY":"30",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9803",
+"name":"Mê Thất Bí Cung Tầng 3",
+"offsetX":"0",
+"offsetY":"30",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9811",
+"name":"Mê Thất Bí Cung Tầng 4",
+"offsetX":"0",
+"offsetY":"30",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9812",
+"name":"Mê Thất Bí Cung Tầng 5",
+"offsetX":"0",
+"offsetY":"30",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9813",
+"name":"Mê Thất Bí Cung Tầng 6",
+"offsetX":"0",
+"offsetY":"30",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9821",
+"name":"Mê Thất Bí Cung Tầng 7",
+"offsetX":"0",
+"offsetY":"30",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9822",
+"name":"Mê Thất Bí Cung Tầng 8",
+"offsetX":"0",
+"offsetY":"30",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9823",
+"name":"Mê Thất Bí Cung Tầng 9",
+"offsetX":"0",
+"offsetY":"30",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9831",
+"name":"Liên Hoa Giáo Tầng 1",
+"offsetX":"0",
+"offsetY":"30",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9832",
+"name":"Liên Hoa Giáo Tầng 2",
+"offsetX":"0",
+"offsetY":"30",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9833",
+"name":"Liên Hoa Giáo Tầng 3",
+"offsetX":"0",
+"offsetY":"30",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9834",
+"name":"Liên Hoa Giáo Tầng 4",
+"offsetX":"0",
+"offsetY":"30",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9835",
+"name":"Liên Hoa Giáo Tầng 5",
+"offsetX":"0",
+"offsetY":"30",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9836",
+"name":"Liên Hoa Giáo Tầng Đỉnh",
+"offsetX":"0",
+"offsetY":"30",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9301",
+"name":"Trấn Quan Chi Tháp Tầng 1",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9302",
+"name":"Trấn Quan Chi Tháp Tầng 2",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9303",
+"name":"Trấn Quan Chi Tháp Tầng 3",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9304",
+"name":"Thông Thiên Tháp Tầng 1",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9305",
+"name":"Thông Thiên Tháp Tầng 2",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9306",
+"name":"Thông Thiên Tháp Tầng 3",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9307",
+"name":"Thông Thiên Tháp Tầng 4",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9308",
+"name":"Thông Thiên Tháp Tầng 5",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9309",
+"name":"Thông Thiên Tháp Tầng 6",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9310",
+"name":"Thông Thiên Tháp Tầng 7",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9311",
+"name":"Thông Thiên Tháp Tầng 8",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9312",
+"name":"Thông Thiên Tháp Tầng 12",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9313",
+"name":"Thông Thiên Tháp Tầng 10",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9314",
+"name":"Thông Thiên Tháp Tầng 11",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9315",
+"name":"Thông Thiên Tháp Tầng 12",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9316",
+"name":"Thông Thiên Tháp Tầng 9",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9317",
+"name":"Thông Thiên Tháp Tầng 13",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9318",
+"name":"Thông Thiên Tháp Tầng 14",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9319",
+"name":"Thông Thiên Tháp Tầng 15",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9401",
+"name":"Long Môn Động Quật Tầng 1",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9402",
+"name":"Long Môn Động Quật Tầng 2",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9403",
+"name":"Long Môn Động Quật Tầng 3",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9005",
+"name":"Long Môn Phi Giáp",
+"offsetX":"0",
+"offsetY":"90",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9601",
+"name":"Mật Thất Tàng Bảo Động",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9602",
+"name":"Hoàng Thất Tàng Bảo Động",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9603",
+"name":"Hoàng Lăng Mộ Địa",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"110",
+"name":"Sơn Nhai Biên",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"111",
+"name":"Mạn Đà Động",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"112",
+"name":"Kim Luân Điện",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"114",
+"name":"Sơn Nhai Biên",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9501",
+"name":"Lôi Cổ Sơn",
+"offsetX":"0",
+"offsetY":"180",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9502",
+"name":"Nhất Phẩm Đường",
+"offsetX":"0",
+"offsetY":"160",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9503",
+"name":"Phiêu Miễu Phong",
+"offsetX":"0",
+"offsetY":"170",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9504",
+"name":"Tịnh Ảnh Tự",
+"offsetX":"0",
+"offsetY":"160",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"9505",
+"name":"Ngũ Độc Lĩnh",
+"offsetX":"0",
+"offsetY":"140",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"10901",
+"name":"Anh Hùng Đài",
+"offsetX":"0",
+"offsetY":"50",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"10902",
+"name":"Thông Thiên Phong",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"10903",
+"name":"Thông Thiên Phong",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"10904",
+"name":"Thông Thiên Phong",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"10905",
+"name":"Thông Thiên Phong",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"10906",
+"name":"Thông Thiên Phong",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"10907",
+"name":"Thông Thiên Phong",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"10908",
+"name":"Thông Thiên Phong",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"false"
+},{
+"mapId":"3008",
+"name":"Tổng Đàn",
+"offsetX":"0",
+"offsetY":"60",
+"limitPerson":"0",
+"branching":"true"
+},{
+"mapId":"3009",
+"name":"Vạn Thọ Lĩnh",
+"offsetX":"0",
+"offsetY":"120",
+"limitPerson":"0",
+"branching":"true"
+},{
+"mapId":"3010",
+"name":"Thanh Long Sơn",
+"offsetX":"0",
+"offsetY":"100",
+"limitPerson":"0",
+"branching":"true"
+},{
+"mapId":"3011",
+"name":"Đại Bằng Điện",
+"offsetX":"0",
+"offsetY":"80",
+"limitPerson":"0",
+"branching":"true"
+},{
+"mapId":"3012",
+"name":"Cảnh Dương Cương",
+"offsetX":"0",
+"offsetY":"100",
+"limitPerson":"0",
+"branching":"true"
+},{
+"mapId":"5000",
+"name":"Cạnh Kỹ Đại Sảnh",
+"offsetX":"0",
+"offsetY":"70",
+"limitPerson":"0",
+"branching":"true"
+},{
+"mapId":"3001",
+"name":"Thất Tinh Kiều",
+"offsetX":"0",
+"offsetY":"50",
+"limitPerson":"0",
+"branching":"true",
+"needGolden":"0"
+},{
+"mapId":"3005",
+"name":"Thanh Vân Điện",
+"offsetX":"0",
+"offsetY":"70",
+"limitPerson":"0",
+"branching":"true",
+"needGolden":"0"
+},{
+"mapId":"3013",
+"name":"Sào Huyệt BOSS",
+"offsetX":"0",
+"offsetY":"40",
+"limitPerson":"0",
+"branching":"true",
+"needGolden":"0"
+},{
+"mapId":"2011",
+"name":"Bạt Thiệt Địa Ngục",
+"offsetX":"0",
+"offsetY":"200",
+"limitPerson":"0",
+"branching":"true",
+"needGolden":"0"
+},{
+"mapId":"2012",
+"name":"Tiễn Đao Địa Ngục",
+"offsetX":"0",
+"offsetY":"200",
+"limitPerson":"0",
+"branching":"true",
+"needGolden":"0"
+},{
+"mapId":"2013",
+"name":"Thiết Thụ Địa Ngục",
+"offsetX":"0",
+"offsetY":"200",
+"limitPerson":"0",
+"branching":"true",
+"needGolden":"0"
+},{
+"mapId":"2014",
+"name":"Nghiệt Kính Địa Ngục",
+"offsetX":"0",
+"offsetY":"200",
+"limitPerson":"0",
+"branching":"true",
+"needGolden":"0"
+},{
+"mapId":"2015",
+"name":"Chưng Lung Địa Ngục",
+"offsetX":"0",
+"offsetY":"200",
+"limitPerson":"0",
+"branching":"true",
+"needGolden":"0"
+},{
+"mapId":"2016",
+"name":"Đồng Trụ Địa Ngục",
+"offsetX":"0",
+"offsetY":"200",
+"limitPerson":"0",
+"branching":"true",
+"needGolden":"0"
+},{
+"mapId":"2017",
+"name":"Đao Sơn Địa Ngục",
+"offsetX":"0",
+"offsetY":"200",
+"limitPerson":"0",
+"branching":"true",
+"needGolden":"0"
+},{
+"mapId":"2018",
+"name":"Băng Sơn Địa Ngục",
+"offsetX":"0",
+"offsetY":"200",
+"limitPerson":"0",
+"branching":"true",
+"needGolden":"0"
+},{
+"mapId":"2019",
+"name":"Du Oa Địa Ngục",
+"offsetX":"0",
+"offsetY":"200",
+"limitPerson":"0",
+"branching":"true",
+"needGolden":"0"
+},{
+"mapId":"2020",
+"name":"Ngưu Khanh Địa Ngục",
+"offsetX":"0",
+"offsetY":"200",
+"limitPerson":"0",
+"branching":"true",
+"needGolden":"0"
+},{
+"mapId":"2021",
+"name":"Thạch Áp Địa Ngục",
+"offsetX":"0",
+"offsetY":"200",
+"limitPerson":"0",
+"branching":"true",
+"needGolden":"0"
+},{
+"mapId":"2022",
+"name":"Thung Cữu Địa Ngục",
+"offsetX":"0",
+"offsetY":"200",
+"limitPerson":"0",
+"branching":"true",
+"needGolden":"0"
+},{
+"mapId":"2023",
+"name":"Huyết Trì Địa Ngục",
+"offsetX":"0",
+"offsetY":"200",
+"limitPerson":"0",
+"branching":"true",
+"needGolden":"0"
+},{
+"mapId":"2024",
+"name":"Uổng Tử Địa Ngục",
+"offsetX":"0",
+"offsetY":"200",
+"limitPerson":"0",
+"branching":"true",
+"needGolden":"0"
+},{
+"mapId":"2025",
+"name":"Trách Hình Địa Ngục",
+"offsetX":"0",
+"offsetY":"200",
+"limitPerson":"0",
+"branching":"true",
+"needGolden":"0"
+},{
+"mapId":"2026",
+"name":"Hỏa Sơn Địa Ngục",
+"offsetX":"0",
+"offsetY":"200",
+"limitPerson":"0",
+"branching":"true",
+"needGolden":"0"
+},{
+"mapId":"2027",
+"name":"Thạch Ma Địa Ngục",
+"offsetX":"0",
+"offsetY":"200",
+"limitPerson":"0",
+"branching":"true",
+"needGolden":"0"
+},{
+"mapId":"2028",
+"name":"Đao Cứ Địa Ngục",
+"offsetX":"0",
+"offsetY":"200",
+"limitPerson":"0",
+"branching":"true",
+"needGolden":"0"
+},{
+"mapId":"6000",
+"name":"Ảo-Đại Yến Cung Điện",
+"offsetX":"0",
+"offsetY":"100",
+"limitPerson":"0",
+"branching":"true",
+"needGolden":"0"
+},{
+"mapId":"6001",
+"name":"Tu Tiên Động",
+"offsetX":"0",
+"offsetY":"90",
+"limitPerson":"0",
+"branching":"true",
+"needGolden":"0"
+},{
+"mapId":"6002",
+"name":"Dao Trì",
+"offsetX":"0",
+"offsetY":"200",
+"limitPerson":"0",
+"branching":"true",
+"needGolden":"0"
+},{
+"mapId":"6003",
+"name":"Chúng Thánh Điện",
+"offsetX":"0",
+"offsetY":"170",
+"limitPerson":"0",
+"branching":"true",
+"needGolden":"0"
+},{
+"mapId":"6004",
+"name":"Cửu Diệu Tinh Cung",
+"offsetX":"0",
+"offsetY":"150",
+"limitPerson":"0",
+"branching":"true",
+"needGolden":"0"
+},{
+"mapId":"201301",
+"name":"Hoạt Động Địa Đồ",
+"offsetX":"0",
+"offsetY":"160",
+"limitPerson":"0",
+"branching":"true",
+"needGolden":"0"
+},{
+"mapId":"201302",
+"name":"Bích Ba Đàm",
+"offsetX":"0",
+"offsetY":"270",
+"limitPerson":"0",
+"branching":"true",
+"needGolden":"0"
+},{
+"mapId":"8889",
+"name":"Thiên Địa Đàn",
+"offsetX":"0",
+"offsetY":"80",
+"limitPerson":"0",
+"branching":"true",
+"needGolden":"0"
+},{
+"mapId":"8888",
+"name":"Phong Đô Thành",
+"offsetX":"0",
+"offsetY":"220",
+"limitPerson":"0",
+"branching":"true",
+"needGolden":"2000"
+},{
+"mapId":"201307",
+"name":"Bát Quái Lô",
+"offsetX":"0",
+"offsetY":"60",
+"limitPerson":"0",
+"branching":"true",
+"needGolden":"0"
+},{
+"mapId":"3004",
+"name":"Hàn Hoang Chi Địa",
+"offsetX":"0",
+"offsetY":"150",
+"limitPerson":"0",
+"branching":"true",
+"needGolden":"5000"
+}]

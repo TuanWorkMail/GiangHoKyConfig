@@ -1,0 +1,460 @@
+[{
+"id":"1",
+"name":"Hoàng Phi Hổ",
+"job":"1",
+"model":"92",
+"icon":"92",
+"famous":"false",
+"skill":"1005_1",
+"aptitudeNo":"101"
+},{
+"id":"3",
+"name":"Nộ Hán",
+"job":"3",
+"model":"96",
+"icon":"96",
+"famous":"false",
+"skill":"1005_1",
+"aptitudeNo":"101"
+},{
+"id":"4",
+"name":"Tiêu Tiểu",
+"job":"1",
+"model":"89",
+"icon":"89",
+"famous":"false",
+"skill":"1005_1",
+"aptitudeNo":"101"
+},{
+"id":"5",
+"name":"Thảo Mãng",
+"job":"3",
+"model":"91",
+"icon":"91",
+"famous":"false",
+"skill":"1005_1",
+"aptitudeNo":"101"
+},{
+"id":"8",
+"name":"Thân Vệ",
+"job":"4",
+"model":"78",
+"icon":"78",
+"famous":"false",
+"skill":"1005_1",
+"aptitudeNo":"101"
+},{
+"id":"9",
+"name":"Tục Gia Đệ Tử",
+"job":"2",
+"model":"95",
+"icon":"95",
+"famous":"false",
+"skill":"1005_1",
+"aptitudeNo":"101"
+},{
+"id":"12",
+"name":"Hòa Thượng",
+"job":"4",
+"model":"90",
+"icon":"90",
+"famous":"false",
+"skill":"1005_1",
+"aptitudeNo":"101"
+},{
+"id":"14",
+"name":"Nam Man Nhân",
+"job":"4",
+"model":"73",
+"icon":"73",
+"famous":"false",
+"skill":"1005_1",
+"aptitudeNo":"101"
+},{
+"id":"15",
+"name":"Huyết Ma",
+"job":"2",
+"model":"98",
+"icon":"98",
+"famous":"false",
+"skill":"1005_1",
+"aptitudeNo":"101"
+},{
+"id":"16",
+"name":"Thích Khách",
+"job":"3",
+"model":"20",
+"icon":"20",
+"famous":"false",
+"skill":"1005_1",
+"aptitudeNo":"101"
+},{
+"id":"17",
+"name":"Tiêu Diêu Tộc Nhân",
+"job":"2",
+"model":"93",
+"icon":"93",
+"famous":"false",
+"skill":"1005_1",
+"aptitudeNo":"101"
+},{
+"id":"19",
+"name":"Đao Binh",
+"job":"1",
+"model":"88",
+"icon":"88",
+"famous":"false",
+"skill":"1005_1",
+"aptitudeNo":"101"
+},{
+"id":"20",
+"name":"Nữ Thị",
+"job":"2",
+"model":"83",
+"icon":"83",
+"famous":"false",
+"skill":"1005_1",
+"aptitudeNo":"101"
+},{
+"id":"21",
+"name":"Ngũ Độc Yêu Nữ",
+"job":"4",
+"model":"94",
+"icon":"94",
+"famous":"false",
+"skill":"1005_1",
+"aptitudeNo":"101"
+},{
+"id":"22",
+"name":"Thù Nữ",
+"job":"3",
+"model":"85",
+"icon":"85",
+"famous":"false",
+"skill":"1005_1",
+"aptitudeNo":"101"
+},{
+"id":"23",
+"name":"Thiên Sơn Đồng Mỗ",
+"job":"1",
+"model":"103",
+"icon":"56",
+"famous":"true",
+"skill":"102_1|1005_1",
+"aptitudeNo":"103"
+},{
+"id":"24",
+"name":"Đoàn Dự",
+"job":"2",
+"model":"101",
+"icon":"59",
+"famous":"true",
+"skill":"103_1|1005_1",
+"aptitudeNo":"104"
+},{
+"id":"25",
+"name":"Hư Trúc",
+"job":"1",
+"model":"105",
+"icon":"60",
+"famous":"true",
+"skill":"101_1|1005_1",
+"aptitudeNo":"105"
+},{
+"id":"26",
+"name":"Kiều Phong",
+"job":"4",
+"model":"104",
+"icon":"57",
+"famous":"true",
+"skill":"105_1|1005_1",
+"aptitudeNo":"106"
+},{
+"id":"27",
+"name":"Tiểu Manh Na",
+"job":"4",
+"model":"82",
+"icon":"82",
+"famous":"false",
+"skill":"1005_1",
+"aptitudeNo":"102"
+},{
+"id":"28",
+"name":"Mộ Dung Phục",
+"job":"4",
+"model":"102",
+"icon":"58",
+"famous":"true",
+"skill":"104_1|1005_1",
+"aptitudeNo":"107"
+},{
+"id":"29",
+"name":"Chân-Huyết Ma",
+"job":"4",
+"model":"29",
+"icon":"29",
+"famous":"true",
+"skill":"1005_1",
+"aptitudeNo":"108"
+},{
+"id":"30",
+"name":"Manh Oa Kỵ Sĩ",
+"job":"4",
+"model":"31",
+"icon":"31",
+"famous":"true",
+"skill":"1005_1",
+"aptitudeNo":"109"
+},{
+"id":"31",
+"name":"Thiên Sơn Đồng Mỗ",
+"job":"1",
+"model":"103",
+"icon":"56",
+"famous":"true",
+"skill":"102_1|1005_1",
+"aptitudeNo":"108"
+},{
+"id":"32",
+"name":"Thiên Sơn Đồng Mỗ",
+"job":"1",
+"model":"103",
+"icon":"56",
+"famous":"true",
+"skill":"102_1|1005_1",
+"aptitudeNo":"110"
+},{
+"id":"33",
+"name":"Hùng Miêu Hiệp",
+"job":"4",
+"model":"99",
+"icon":"99",
+"famous":"true",
+"skill":"1005_1",
+"aptitudeNo":"108"
+},{
+"id":"34",
+"name":"Niên Thú",
+"job":"4",
+"model":"106",
+"icon":"106",
+"famous":"true",
+"skill":"1005_1",
+"aptitudeNo":"111"
+},{
+"id":"35",
+"name":"Hàng Long Tôn Giả",
+"job":"4",
+"model":"107",
+"icon":"107",
+"famous":"true",
+"skill":"105_1|1005_1",
+"aptitudeNo":"112"
+},{
+"id":"36",
+"name":"Xà Bảo Bảo",
+"job":"4",
+"model":"108",
+"icon":"108",
+"famous":"true",
+"skill":"1005_1",
+"aptitudeNo":"113"
+},{
+"id":"37",
+"name":"A Tử",
+"job":"4",
+"model":"109",
+"icon":"109",
+"famous":"true",
+"skill":"1005_1",
+"aptitudeNo":"114"
+},{
+"id":"38",
+"name":"Mộc Uyển Thanh",
+"job":"4",
+"model":"110",
+"icon":"110",
+"famous":"true",
+"skill":"1005_1",
+"aptitudeNo":"115"
+},{
+"id":"39",
+"name":"Hoàng Phi Hổ",
+"job":"1",
+"model":"92",
+"icon":"92",
+"famous":"false",
+"skill":"1005_1",
+"aptitudeNo":"116"
+},{
+"id":"40",
+"name":"Nộ Hán",
+"job":"3",
+"model":"96",
+"icon":"96",
+"famous":"false",
+"skill":"1005_1",
+"aptitudeNo":"116"
+},{
+"id":"41",
+"name":"Tiêu Tiểu",
+"job":"1",
+"model":"89",
+"icon":"89",
+"famous":"false",
+"skill":"1005_1",
+"aptitudeNo":"116"
+},{
+"id":"42",
+"name":"Thảo Mãng",
+"job":"3",
+"model":"91",
+"icon":"91",
+"famous":"false",
+"skill":"1005_1",
+"aptitudeNo":"116"
+},{
+"id":"43",
+"name":"Thân Vệ",
+"job":"4",
+"model":"78",
+"icon":"78",
+"famous":"false",
+"skill":"1005_1",
+"aptitudeNo":"116"
+},{
+"id":"44",
+"name":"Tục Gia Đệ Tử",
+"job":"2",
+"model":"95",
+"icon":"95",
+"famous":"false",
+"skill":"1005_1",
+"aptitudeNo":"116"
+},{
+"id":"45",
+"name":"Hòa Thượng",
+"job":"4",
+"model":"90",
+"icon":"90",
+"famous":"false",
+"skill":"1005_1",
+"aptitudeNo":"116"
+},{
+"id":"46",
+"name":"Nam Man Nhân",
+"job":"4",
+"model":"73",
+"icon":"73",
+"famous":"false",
+"skill":"1005_1",
+"aptitudeNo":"116"
+},{
+"id":"47",
+"name":"Huyết Ma",
+"job":"2",
+"model":"98",
+"icon":"98",
+"famous":"false",
+"skill":"1005_1",
+"aptitudeNo":"116"
+},{
+"id":"48",
+"name":"Thích Khách",
+"job":"3",
+"model":"20",
+"icon":"20",
+"famous":"false",
+"skill":"1005_1",
+"aptitudeNo":"116"
+},{
+"id":"49",
+"name":"Tiêu Diêu Tộc Nhân",
+"job":"2",
+"model":"93",
+"icon":"93",
+"famous":"false",
+"skill":"1005_1",
+"aptitudeNo":"116"
+},{
+"id":"50",
+"name":"Đao Binh",
+"job":"1",
+"model":"88",
+"icon":"88",
+"famous":"false",
+"skill":"1005_1",
+"aptitudeNo":"116"
+},{
+"id":"51",
+"name":"Nữ Thị",
+"job":"2",
+"model":"83",
+"icon":"83",
+"famous":"false",
+"skill":"1005_1",
+"aptitudeNo":"116"
+},{
+"id":"52",
+"name":"Ngũ Độc Yêu Nữ",
+"job":"4",
+"model":"94",
+"icon":"94",
+"famous":"false",
+"skill":"1005_1",
+"aptitudeNo":"116"
+},{
+"id":"53",
+"name":"Thù Nữ",
+"job":"3",
+"model":"85",
+"icon":"85",
+"famous":"false",
+"skill":"1005_1",
+"aptitudeNo":"116"
+},{
+"id":"54",
+"name":"Ma-Đoàn Diên Khánh",
+"job":"4",
+"model":"200",
+"icon":"200",
+"famous":"true",
+"skill":"105_1|1005_1",
+"aptitudeNo":"200"
+},{
+"id":"55",
+"name":"Thường Nga",
+"job":"1",
+"model":"6015",
+"icon":"6015",
+"famous":"true",
+"skill":"105_1|1005_1",
+"aptitudeNo":"201"
+},{
+"id":"56",
+"name":"Thường Nga",
+"job":"2",
+"model":"6015",
+"icon":"6015",
+"famous":"true",
+"skill":"105_1|1005_1",
+"aptitudeNo":"201"
+},{
+"id":"57",
+"name":"Trư Bát Giới",
+"job":"1",
+"model":"6016",
+"icon":"6016",
+"famous":"true",
+"skill":"105_1|1005_1",
+"aptitudeNo":"202"
+},{
+"id":"58",
+"name":"Trư Bát Giới",
+"job":"2",
+"model":"6016",
+"icon":"6016",
+"famous":"true",
+"skill":"105_1|1005_1",
+"aptitudeNo":"202"
+}]

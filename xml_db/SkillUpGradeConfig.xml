@@ -1,0 +1,15 @@
+[{
+"id":"1",
+"skillid":"1",
+"layer":"1",
+"levellimit":"30",
+"needitem":"1_10300_1",
+"coolTimeExpr":"6000"
+},{
+"id":"2",
+"skillid":"2",
+"layer":"2",
+"levellimit":"31",
+"needitem":"1_10300_2",
+"coolTimeExpr":"12000"
+}]

@@ -1,0 +1,11 @@
+[{
+"id":"1",
+"model":"0",
+"expRate":"100",
+"dropRate":"100"
+},{
+"id":"2",
+"model":"1",
+"expRate":"120",
+"dropRate":"120"
+}]

@@ -1,0 +1,43 @@
+[{
+"id":"50001",
+"name":"Gián điệp bang",
+"acceptNpc":"337",
+"completeNpc":"337",
+"addition1":"1_122_1",
+"completeCount":"10",
+"donate":"4",
+"exp":"n1<50?Math.floor((Math.pow(n1,1.01)+4)*2400/20*2.5*Math.pow(1.12,n1-41)*7/3*0.40*Math.pow(1.002,n1)*(1+n1*0)):n1<70?Math.floor((Math.pow(n1,1.01)+4)*2400/20*13.333*Math.pow(1.17,n1-50)*4.5*0.08*Math.pow(1.002,n1)*(1+n1*0)/Math.max(0.55*Math.pow(1.17,n1-50),1)):Math.floor((Math.pow(n1,1.01)+4)*2400/20*348.5*Math.pow(1.02,n1-70)*4.5*0.08*Math.pow(1.002,n1)*(1+n1*0)/Math.max(13*Math.pow(1.02,n1-70),1))",
+"allianceSilver":"1000"
+},{
+"id":"50002",
+"name":"Bổ sung tiền bang",
+"acceptNpc":"337",
+"completeNpc":"337",
+"addition1":"10_901003_5",
+"completeCount":"5",
+"donate":"8",
+"exp":"n1<50?Math.floor((Math.pow(n1,1.01)+4)*2400/20*2.5*Math.pow(1.12,n1-41)*7/3*0.40*Math.pow(1.002,n1)*(1+n1*0)):n1<70?Math.floor((Math.pow(n1,1.01)+4)*2400/20*13.333*Math.pow(1.17,n1-50)*4.5*0.08*Math.pow(1.002,n1)*(1+n1*0)/Math.max(0.55*Math.pow(1.17,n1-50),1)):Math.floor((Math.pow(n1,1.01)+4)*2400/20*348.5*Math.pow(1.02,n1-70)*4.5*0.08*Math.pow(1.002,n1)*(1+n1*0)/Math.max(13*Math.pow(1.02,n1-70),1))",
+"allianceSilver":"2000"
+},{
+"id":"50003",
+"name":"Trừng trị kẻ ác",
+"acceptNpc":"337",
+"completeNpc":"337",
+"addition1":"3_3022_220",
+"completeCount":"5",
+"donate":"9",
+"exp":"n1<50?Math.floor((Math.pow(n1,1.01)+4)*2400/20*2.5*Math.pow(1.12,n1-41)*7/3*0.40*Math.pow(1.002,n1)*(1+n1*0)):n1<70?Math.floor((Math.pow(n1,1.01)+4)*2400/20*13.333*Math.pow(1.17,n1-50)*4.5*0.08*Math.pow(1.002,n1)*(1+n1*0)/Math.max(0.55*Math.pow(1.17,n1-50),1)):Math.floor((Math.pow(n1,1.01)+4)*2400/20*348.5*Math.pow(1.02,n1-70)*4.5*0.08*Math.pow(1.002,n1)*(1+n1*0)/Math.max(13*Math.pow(1.02,n1-70),1))",
+"allianceSilver":"2500"
+},{
+"id":"50004",
+"name":"Nhiệm vụ BOSS",
+"acceptNpc":"337",
+"completeNpc":"337",
+"addition1":"3_3025_1",
+"randBoss":"9508_3025|9535_4039|9513_4056|9521_4057|9548_2100|9571_2101|9581_3100|9554_3101",
+"completeCount":"1",
+"donate":"10",
+"exp":"n1<50?Math.floor((Math.pow(n1,1.01)+4)*2400/20*2.5*Math.pow(1.12,n1-41)*7/3*0.40*Math.pow(1.002,n1)*(5+n1*0)):n1<70?Math.floor((Math.pow(n1,1.01)+4)*2400/20*13.333*Math.pow(1.17,n1-50)*4.5*0.08*Math.pow(1.002,n1)*(5+n1*0)/Math.max(0.55*Math.pow(1.17,n1-50),1)):Math.floor((Math.pow(n1,1.01)+4)*2400/20*348.5*Math.pow(1.02,n1-70)*4.5*0.08*Math.pow(1.002,n1)*(5+n1*0)/Math.max(13*Math.pow(1.02,n1-70),1))",
+"allianceSilver":"3000",
+"itemRewards":"70001_1_1|142005_1_1"
+}]

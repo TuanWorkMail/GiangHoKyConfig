@@ -1,0 +1,145 @@
+[{
+"id":"1",
+"type":"5",
+"camp":"0",
+"activeName":"Quân Mông xâm lược",
+"profit":"0",
+"openRegionDay":"1|2|3|4|5|6|7",
+"openRegionTime":"16:00-17:00",
+"level":"40"
+},{
+"id":"2",
+"type":"3",
+"camp":"2",
+"activeName":"Phúc Vận (Cuồng)",
+"profit":"1",
+"openRegionDay":"1|3|5",
+"openRegionTime":"15:00-16:00",
+"level":"46"
+},{
+"id":"3",
+"type":"3",
+"camp":"1",
+"activeName":"Phúc Vận (Huyết)",
+"profit":"1",
+"openRegionDay":"2|4|6",
+"openRegionTime":"15:00-16:00",
+"level":"46"
+},{
+"id":"4",
+"type":"6",
+"camp":"0",
+"activeName":"Chiến Trường Loạn Võ",
+"profit":"0",
+"openRegionDay":"1|2|3|4|5|6|7",
+"openRegionTime":"11:00-11:30|15:00-15:30|19:30-20:00",
+"level":"35"
+},{
+"id":"5",
+"type":"7",
+"camp":"0",
+"activeName":"Chiến Trường Vô Song",
+"profit":"0",
+"openRegionDay":"2|4|6",
+"openRegionTime":"20:30-21:30",
+"level":"40"
+},{
+"id":"6",
+"type":"9",
+"camp":"0",
+"activeName":"Tiệc Mừng Công",
+"profit":"0",
+"openRegionDay":"2|4|6",
+"openRegionTime":"21:40-22:10",
+"level":"35"
+},{
+"id":"7",
+"type":"6",
+"camp":"0",
+"activeName":"Tổng Đàn Tứ Thần",
+"profit":"0",
+"openRegionDay":"1|2|3|4|5|6|7",
+"openRegionTime":"02:00-24:00",
+"level":"50"
+},{
+"id":"8",
+"type":"6",
+"camp":"0",
+"activeName":"Xông vào Địa Ngục",
+"profit":"0",
+"openRegionDay":"1|2|3|4|5|6|7",
+"openRegionTime":"02:00-24:00",
+"level":"40"
+},{
+"id":"9",
+"type":"6",
+"camp":"0",
+"activeName":"Khiêu chiến BOSS thế giới",
+"profit":"0",
+"openRegionDay":"1|2|3|4|5|6|7",
+"openRegionTime":"00:00-24:00",
+"level":"40"
+},{
+"id":"10",
+"type":"6",
+"camp":"0",
+"activeName":"Phiêu Miễu Phong gặp Tiêu Dao Tử",
+"profit":"0",
+"openRegionDay":"1|2|3|4|5|6|7",
+"openRegionTime":"00:00-24:00",
+"level":"40"
+},{
+"id":"11",
+"type":"6",
+"camp":"0",
+"activeName":"Thiên Long hiện nhân gian",
+"profit":"0",
+"openRegionDay":"1|2|3|4|5|6|7",
+"openRegionTime":"00:00-24:00",
+"level":"40"
+},{
+"id":"12",
+"type":"6",
+"camp":"0",
+"activeName":"Đến 18 tầng Địa Ngục",
+"profit":"0",
+"openRegionDay":"1|2|3|4|5|6|7",
+"openRegionTime":"02:00-24:00",
+"level":"40"
+},{
+"id":"13",
+"type":"6",
+"camp":"0",
+"activeName":"Thông qua tầng 14 Địa Ngục",
+"profit":"0",
+"openRegionDay":"1|2|3|4|5|6|7",
+"openRegionTime":"02:00-24:00",
+"level":"40"
+},{
+"id":"14",
+"type":"6",
+"camp":"0",
+"activeName":"Phong Đô Quỷ Thành",
+"profit":"0",
+"openRegionDay":"1|2|3|4|5|6|7",
+"openRegionTime":"02:00-24:00",
+"level":"88"
+},{
+"id":"15",
+"type":"6",
+"camp":"0",
+"activeName":"BOSS đặc sắc",
+"profit":"0",
+"openRegionDay":"1|2|3|4|5|6|7",
+"openRegionTime":"02:00-24:00",
+"level":"88"
+},{
+"id":"16",
+"type":"6",
+"camp":"0",
+"activeName":"Bích Ba Đàm tầm bảo",
+"profit":"0",
+"openRegionDay":"1|2|3|4|5|6|7",
+"openRegionTime":"02:00-24:00",
+"level":"50"
+}]

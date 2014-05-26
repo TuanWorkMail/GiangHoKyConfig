@@ -1,0 +1,10 @@
+[{
+"id":"1",
+"group":"1",
+"monsteId":"1",
+"bornPointType":"1",
+"bornPoint":"11",
+"bornRule":"1",
+"rate":"40",
+"maxRate":"1000"
+}]

@@ -1,0 +1,414 @@
+[{
+"id":"1",
+"activeId":"27",
+"layer":"1",
+"prevLayer":"0",
+"honourName":"Tọa kỵ của ta",
+"honourType":"1_2_1"
+},{
+"id":"2",
+"activeId":"27",
+"layer":"1",
+"prevLayer":"0",
+"honourName":"Vì dân trừ hại",
+"honourType":"2_12_1"
+},{
+"id":"3",
+"activeId":"27",
+"layer":"1",
+"prevLayer":"0",
+"honourName":"Thu thập lực lượng",
+"honourType":"3_1_1"
+},{
+"id":"4",
+"activeId":"27",
+"layer":"1",
+"prevLayer":"0",
+"honourName":"Nhân duyên tốt lành",
+"honourType":"2_21_1"
+},{
+"id":"5",
+"activeId":"27",
+"layer":"1",
+"prevLayer":"0",
+"honourName":"Đã lộ mũi nhọn",
+"honourType":"2_3_1"
+},{
+"id":"6",
+"activeId":"27",
+"layer":"1",
+"prevLayer":"0",
+"honourName":"Để cho lớn mạnh！",
+"honourType":"5_0_10000"
+},{
+"id":"7",
+"activeId":"27",
+"layer":"1",
+"prevLayer":"0",
+"honourName":"Trợ thủ đắc lực",
+"honourType":"6_201_-1_1_1"
+},{
+"id":"8",
+"activeId":"27",
+"layer":"1",
+"prevLayer":"0",
+"honourName":"Thời gian Online 2",
+"honourType":"2_49_1"
+},{
+"id":"9",
+"activeId":"27",
+"layer":"1",
+"prevLayer":"0",
+"honourName":"Ta thích đánh dấu",
+"honourType":"7_1_1"
+},{
+"id":"10",
+"activeId":"27",
+"layer":"1",
+"prevLayer":"0",
+"honourName":"Vô cùng sôi nổi",
+"honourType":"8_9_1"
+},{
+"id":"11",
+"activeId":"27",
+"layer":"2",
+"prevLayer":"1",
+"honourName":"Chấp chứa nhân tài",
+"honourType":"6_301_-1_1_1"
+},{
+"id":"12",
+"activeId":"27",
+"layer":"2",
+"prevLayer":"1",
+"honourName":"Gia tướng không thiếu",
+"honourType":"6_-1_-1_2_1"
+},{
+"id":"13",
+"activeId":"27",
+"layer":"2",
+"prevLayer":"1",
+"honourName":"Phân chia lần 1",
+"honourType":"2_27_1"
+},{
+"id":"14",
+"activeId":"27",
+"layer":"2",
+"prevLayer":"1",
+"honourName":"Tiêu xa hào hoa",
+"honourType":"9_2_-1_4_1"
+},{
+"id":"15",
+"activeId":"27",
+"layer":"2",
+"prevLayer":"1",
+"honourName":"Thùng vàng 1",
+"honourType":"10_2_10000_1"
+},{
+"id":"16",
+"activeId":"27",
+"layer":"2",
+"prevLayer":"1",
+"honourName":"Chia sẽ đồ tốt",
+"honourType":"4_1_1_1"
+},{
+"id":"17",
+"activeId":"27",
+"layer":"2",
+"prevLayer":"1",
+"honourName":"Nhật hoàn 5 sao",
+"honourType":"9_1_-1_4_1"
+},{
+"id":"18",
+"activeId":"27",
+"layer":"2",
+"prevLayer":"1",
+"honourName":"Chăm chỉ luyện tập",
+"honourType":"13_1_50_1"
+},{
+"id":"19",
+"activeId":"27",
+"layer":"2",
+"prevLayer":"1",
+"honourName":"Cường hóa lần đầu",
+"honourType":"14_-1_-1_5_1_1"
+},{
+"id":"20",
+"activeId":"27",
+"layer":"3",
+"prevLayer":"2",
+"honourName":"Thân thể cường tráng",
+"honourType":"15_50_1"
+},{
+"id":"21",
+"activeId":"27",
+"layer":"3",
+"prevLayer":"2",
+"honourName":"Thời gian Online 4",
+"honourType":"2_51_1"
+},{
+"id":"22",
+"activeId":"27",
+"layer":"3",
+"prevLayer":"2",
+"honourName":"Nhật hoàn 5 sao",
+"honourType":"9_1_-1_4_1"
+},{
+"id":"23",
+"activeId":"27",
+"layer":"3",
+"prevLayer":"2",
+"honourName":"Nhanh tay kiếm tiền",
+"honourType":"10_2_20000_1"
+},{
+"id":"24",
+"activeId":"27",
+"layer":"3",
+"prevLayer":"2",
+"honourName":"Lần đầu mua bán",
+"honourType":"2_31_1"
+},{
+"id":"25",
+"activeId":"27",
+"layer":"3",
+"prevLayer":"2",
+"honourName":"Hợp thành lần 1",
+"honourType":"2_24_1"
+},{
+"id":"26",
+"activeId":"27",
+"layer":"3",
+"prevLayer":"2",
+"honourName":"Khảm nạm lần 1",
+"honourType":"2_28_1"
+},{
+"id":"27",
+"activeId":"27",
+"layer":"3",
+"prevLayer":"2",
+"honourName":"Mua lần 1",
+"honourType":"2_32_1"
+},{
+"id":"28",
+"activeId":"27",
+"layer":"4",
+"prevLayer":"3",
+"honourName":"Thời gian Online 5",
+"honourType":"2_52_1"
+},{
+"id":"29",
+"activeId":"27",
+"layer":"4",
+"prevLayer":"3",
+"honourName":"Chấp chứa hiền tài",
+"honourType":"6_388_-1_1_1"
+},{
+"id":"30",
+"activeId":"27",
+"layer":"4",
+"prevLayer":"3",
+"honourName":"U Minh Thương Lang",
+"honourType":"1_3_1"
+},{
+"id":"31",
+"activeId":"27",
+"layer":"4",
+"prevLayer":"3",
+"honourName":"Mình đồng da sắt",
+"honourType":"15_150_1"
+},{
+"id":"32",
+"activeId":"27",
+"layer":"4",
+"prevLayer":"3",
+"honourName":"Ta muốn cường hóa",
+"honourType":"24_30000_150_1"
+},{
+"id":"33",
+"activeId":"27",
+"layer":"4",
+"prevLayer":"3",
+"honourName":"Thợ bảo thạch",
+"honourType":"19_2_2_4_1"
+},{
+"id":"34",
+"activeId":"27",
+"layer":"4",
+"prevLayer":"3",
+"honourName":"Ở hiền gặp lành",
+"honourType":"18_50"
+},{
+"id":"35",
+"activeId":"27",
+"layer":"5",
+"prevLayer":"4",
+"honourName":"Xích Nhãn U Lang",
+"honourType":"1_5_1"
+},{
+"id":"36",
+"activeId":"27",
+"layer":"5",
+"prevLayer":"4",
+"honourName":"Ăn mặt lỗng lẫy",
+"honourType":"25_-1_5_1_1"
+},{
+"id":"37",
+"activeId":"27",
+"layer":"5",
+"prevLayer":"4",
+"honourName":"Tẩy luyện tân thủ",
+"honourType":"20_-1_5_5_1"
+},{
+"id":"38",
+"activeId":"27",
+"layer":"5",
+"prevLayer":"4",
+"honourName":"Phú quý đại các",
+"honourType":"18_50"
+},{
+"id":"39",
+"activeId":"27",
+"layer":"5",
+"prevLayer":"4",
+"honourName":"Thân phận cao quý",
+"honourType":"16_2_1"
+},{
+"id":"40",
+"activeId":"27",
+"layer":"5",
+"prevLayer":"4",
+"honourName":"Đa thương bất nhân",
+"honourType":"15_300_1"
+},{
+"id":"41",
+"activeId":"27",
+"layer":"6",
+"prevLayer":"5",
+"honourName":"Thành viên hiếu chiến",
+"honourType":"11_108_10"
+},{
+"id":"42",
+"activeId":"27",
+"layer":"6",
+"prevLayer":"5",
+"honourName":"Người yêu bảo thạch",
+"honourType":"19_2_5_10_1"
+},{
+"id":"43",
+"activeId":"27",
+"layer":"6",
+"prevLayer":"5",
+"honourName":"Ngũ tinh lấp lánh",
+"honourType":"9_1_-1_4_1"
+},{
+"id":"44",
+"activeId":"27",
+"layer":"6",
+"prevLayer":"5",
+"honourName":"Quần kê trân yến",
+"honourType":"18_100"
+},{
+"id":"45",
+"activeId":"27",
+"layer":"6",
+"prevLayer":"5",
+"honourName":"Xích Nhãn U Lang",
+"honourType":"1_8_1"
+},{
+"id":"46",
+"activeId":"27",
+"layer":"7",
+"prevLayer":"6",
+"honourName":"Thuần Dương Canh Khí",
+"honourType":"13_2_1_1"
+},{
+"id":"47",
+"activeId":"27",
+"layer":"7",
+"prevLayer":"6",
+"honourName":"Thần Kỵ của ta",
+"honourType":"1_10_1"
+},{
+"id":"48",
+"activeId":"27",
+"layer":"7",
+"prevLayer":"6",
+"honourName":"Trang bị cam",
+"honourType":"14_4_-1_10_3_1"
+},{
+"id":"49",
+"activeId":"27",
+"layer":"7",
+"prevLayer":"6",
+"honourName":"Cao quý vô cùng",
+"honourType":"16_4_1"
+},{
+"id":"50",
+"activeId":"27",
+"layer":"8",
+"prevLayer":"7",
+"honourName":"Thần Võ Thao Thiết",
+"honourType":"1_11_1"
+},{
+"id":"51",
+"activeId":"27",
+"layer":"8",
+"prevLayer":"7",
+"honourName":"Bảo thạch đại sư",
+"honourType":"19_2_5_20_1"
+},{
+"id":"52",
+"activeId":"27",
+"layer":"8",
+"prevLayer":"7",
+"honourName":"Trích Cân Đấu Thế",
+"honourType":"13_2_5_1"
+},{
+"id":"53",
+"activeId":"27",
+"layer":"8",
+"prevLayer":"7",
+"honourName":"Thân mình sắt đá",
+"honourType":"15_800_1"
+},{
+"id":"54",
+"activeId":"27",
+"layer":"9",
+"prevLayer":"8",
+"honourName":"Thiên Sát Hỏa Lân",
+"honourType":"1_12_1"
+},{
+"id":"55",
+"activeId":"27",
+"layer":"9",
+"prevLayer":"8",
+"honourName":"Thu thập trang bị cam",
+"honourType":"14_4_0_16_13_1"
+},{
+"id":"56",
+"activeId":"27",
+"layer":"9",
+"prevLayer":"8",
+"honourName":"Bảo thạch tông sư",
+"honourType":"19_2_5_65_1"
+},{
+"id":"57",
+"activeId":"27",
+"layer":"10",
+"prevLayer":"9",
+"honourName":"Vua của bảo bạch",
+"honourType":"19_2_6_50_1"
+},{
+"id":"58",
+"activeId":"27",
+"layer":"10",
+"prevLayer":"9",
+"honourName":"Kẻ mạnh nhất",
+"honourType":"14_4_0_19_13_1"
+},{
+"id":"59",
+"activeId":"27",
+"layer":"10",
+"prevLayer":"9",
+"honourName":"Thần thoại!",
+"honourType":"6_601_91_1_1"
+}]
