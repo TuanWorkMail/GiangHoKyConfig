@@ -1,7 +1,7 @@
 [{
 "id":"1",
 "activeBaseId":"5",
-"needItems":"140025_9|140026_9",
+"needItems":"140025_1|140026_1",
 "limitTimes":"100",
 "items":"1500019_1_1_0",
 "expirateType":"-1",
@@ -13,7 +13,7 @@
 },{
 "id":"2",
 "activeBaseId":"5",
-"needItems":"140027_9|140028_9",
+"needItems":"140027_1|140028_1",
 "limitTimes":"100",
 "items":"1234567_1_1_0",
 "expirateType":"-1",
@@ -25,7 +25,7 @@
 },{
 "id":"3",
 "activeBaseId":"5",
-"needItems":"140025_9|140026_9|140027_9|140028_9",
+"needItems":"140025_1|140026_1|140027_1|140028_1",
 "limitTimes":"50",
 "items":"1234568_1_1_0",
 "expirateType":"-1",
