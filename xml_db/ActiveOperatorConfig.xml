@@ -248,4 +248,9 @@
 "name":"Hoạt động Dịch Cân Kinh 10",
 "drop":"0",
 "type":"5"
+},{
+"id":"53",
+"name":"Thu thập",
+"drop":"601",
+"type":"3"
 }]
