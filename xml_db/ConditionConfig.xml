@@ -1,7 +1,7 @@
 [{
 "id":"1",
 "minLevel":"1",
-"maxLevel":"120"
+"maxLevel":"150"
 },{
 "id":"2",
 "minLevel":"40",
@@ -25,7 +25,7 @@
 },{
 "id":"7",
 "minLevel":"40",
-"maxLevel":"120"
+"maxLevel":"150"
 },{
 "id":"8",
 "minLevel":"48",
@@ -37,11 +37,11 @@
 },{
 "id":"10",
 "minLevel":"50",
-"maxLevel":"120"
+"maxLevel":"150"
 },{
 "id":"11",
 "minLevel":"22",
-"maxLevel":"120"
+"maxLevel":"150"
 },{
 "id":"12",
 "minLevel":"35",
