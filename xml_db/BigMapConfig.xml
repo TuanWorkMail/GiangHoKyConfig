@@ -190,8 +190,8 @@
 },{
 "mapId":"8002",
 "name":"Loạn Võ Chiến Trường",
-"offsetX":"0",
-"offsetY":"300",
+"offsetX":"50",
+"offsetY":"150",
 "limitPerson":"0",
 "branching":"false"
 },{
