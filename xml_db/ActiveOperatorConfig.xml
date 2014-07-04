@@ -251,6 +251,11 @@
 },{
 "id":"53",
 "name":"Thu thập",
+"drop":"",
+"type":"3"
+},{
+"id":"54",
+"name":"Thu thập",
 "drop":"601",
 "type":"3"
 }]
