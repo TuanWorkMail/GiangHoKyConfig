@@ -21370,4 +21370,12 @@
 "dungeon":"-1",
 "monsterFightId":"35087",
 "rate":"100"
+},{
+"id":"123456",
+"mapId":"2011",
+"bornX":"119",
+"bornY":"149",
+"dungeon":"-1",
+"monsterFightId":"12345",
+"rate":"100"
 }]
