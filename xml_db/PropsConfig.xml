@@ -5590,15 +5590,15 @@
 "packSort":"318"
 },{
 "id":"32030",
-"name":"Độ Kiếp Thần Chú Đỉnh",
-"quality":"5",
+"name":"Vô lượng Thần Chú Đĩnh",
+"quality":"4",
 "propsType":"3",
 "childType":"3011",
-"qcoin":"1000",
-"mallPrice":"1000",
-"vipPrice":"1000",
+"qcoin":"110",
+"mallPrice":"110",
+"vipPrice":"110",
 "couponPrice":"5000",
-"welfarePrice":"1000",
+"welfarePrice":"110",
 "silverPrice":"1000",
 "bindSilverPrice":"1000",
 "level":"40",
@@ -5613,7 +5613,7 @@
 "maxAmount":"999",
 "canUse":"false",
 "canDrop":"true",
-"packSort":"319"
+"packSort":"318"
 },{
 "id":"32101",
 "name":"Phù Cường Hóa Thần 1 sao",
