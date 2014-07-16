@@ -4,35 +4,35 @@
 "content":"Đăng nhập hàng ngày",
 "condition":"0",
 "times":"1",
-"score":"5"
+"score":"10"
 },{
 "id":"2",
 "type":"2",
 "content":"Bang Phái cống hiến",
 "condition":"0",
 "times":"2",
-"score":"2"
+"score":"10"
 },{
 "id":"3",
 "type":"3",
-"content":"Tham gia Thất Tinh Trận Phó Bản",
+"content":"Vào PB Kim Tiền Bang",
 "condition":"7",
 "times":"1",
-"score":"8"
+"score":"4"
 },{
 "id":"6",
 "type":"3",
 "content":"Tham gia Lôi Cổ Sơn Phó Bản",
 "condition":"39",
 "times":"1",
-"score":"8"
+"score":"20"
 },{
 "id":"9",
 "type":"3",
 "content":"Tham gia Nhất Phẩm Đường Phó Bản",
 "condition":"40",
 "times":"1",
-"score":"8"
+"score":"4"
 },{
 "id":"10",
 "type":"3",
@@ -43,14 +43,14 @@
 },{
 "id":"13",
 "type":"4",
-"content":"Giết địch tại Trận Doanh Ngoạn Gia",
+"content":"Diệt người chơi trận doanh địch",
 "condition":"0",
 "times":"5",
 "score":"20"
 },{
 "id":"14",
 "type":"5",
-"content":"Hoàn thành 1 vòng nhiệm vụ",
+"content":"Hoàn thành Nhiệm vụ ngày",
 "condition":"1001",
 "times":"8",
 "score":"10"
@@ -102,5 +102,5 @@
 "content":"Nói chuyện kênh thế giới",
 "condition":"0",
 "times":"2",
-"score":"2"
+"score":"10"
 }]
