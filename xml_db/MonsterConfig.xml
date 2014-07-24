@@ -21378,4 +21378,12 @@
 "dungeon":"-1",
 "monsterFightId":"12345",
 "rate":"100"
+},{
+"id":"123457",
+"mapId":"10501",
+"bornX":"235",
+"bornY":"125",
+"dungeon":"-1",
+"monsterFightId":"12346",
+"rate":"100"
 }]
