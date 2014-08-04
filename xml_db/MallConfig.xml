@@ -269,6 +269,15 @@
 "expirateType":"-1",
 "expirateTime":"0"
 },{
+"id":"39",
+"mallBuyType":"1",
+"goodsType":"0",
+"propsId":"200151",
+"vipBuy":"0",
+"binding":"false",
+"expirateType":"-1",
+"expirateTime":"0"
+},{
 "id":"100",
 "mallBuyType":"1",
 "goodsType":"0",
